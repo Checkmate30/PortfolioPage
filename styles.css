@@ -50,6 +50,7 @@ span {
     height: 400px;
     border-radius: 10px;
     box-shadow: 2px 5px 8px rgb(187, 185, 185);
+    background-color: beige;
 }
 
 div>img {
